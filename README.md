@@ -49,12 +49,15 @@ https://discord.gg/H4XsyBnsNH
 
 # Some of my apps (pictures)
 
-<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/4c93e9df-ce61-4974-9b76-91dce6492103" alt="Screenshot 1" width="300" height="400">
-<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/ef4ef85f-d0d1-4448-80e0-907b75888b82" alt="Screenshot 2" width="300" height="400">
-<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/2227682c-57be-49f4-a69a-d3a808a188a8" alt="Screenshot 3" width="300" height="400">
-<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/d9b8fef9-c64a-41d8-bcd4-743d1adfaa11" alt="Screenshot 4" width="300" height="400">
-<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/aefc66a2-584e-42e0-a18e-3d1919c46d49" alt="Screenshot 5" width="300" height="400">
-<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/78c9f196-d614-47de-8d7b-7992d1b43b2b" alt="Screenshot 6" width="300" height="400">
-<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/856b9b2d-7640-400c-9e5f-b0674020da4f" alt="Screenshot 7" width="300" height="400">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/4c93e9df-ce61-4974-9b76-91dce6492103" alt="Screenshot 1" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/ef4ef85f-d0d1-4448-80e0-907b75888b82" alt="Screenshot 2" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/2227682c-57be-49f4-a69a-d3a808a188a8" alt="Screenshot 3" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/d9b8fef9-c64a-41d8-bcd4-743d1adfaa11" alt="Screenshot 4" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/aefc66a2-584e-42e0-a18e-3d1919c46d49" alt="Screenshot 5" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/78c9f196-d614-47de-8d7b-7992d1b43b2b" alt="Screenshot 6" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/856b9b2d-7640-400c-9e5f-b0674020da4f" alt="Screenshot 7" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/a82ee97b-a099-49fe-927f-9d55f3659ed0" alt="Screenshot 8" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/a2324fcf-7f3b-4984-8ad6-e7c84d764db2" alt="Screenshot 9" width="200" height="450">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/9599d624-39d2-4e80-b1ec-9c73985a2df3" alt="Screenshot 10" width="200" height="450">
 
 
