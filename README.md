@@ -1,4 +1,4 @@
-![Screenshot_2023-07-02-18-37-30-72_2647c420426a383fde52b11cb38b1e2e](https://github.com/0Armaan025/thapar_session/assets/104704093/f6f1d4e0-1afd-4032-a93a-b9759379f9da)# Thapar Expert Talk Session With Master Divjot.
+#Thapar Expert Talk Session With Master Divjot.
 
 Welcome to the session! In this session, we explored the importance of communities, discussed the future of Flutter, learned how to install it, and delved into various exciting topics such as building a Discord bot using discord.py, participating in hackathons, and Global Hack Weeks (GHWS).
 
@@ -49,11 +49,12 @@ https://discord.gg/H4XsyBnsNH
 
 # Some of my apps (pictures)
 
-![Screenshot_2023-07-02-18-37-56-16_8262729a943d0bf3fdf0da7a61152db7](https://github.com/0Armaan025/thapar_session/assets/104704093/4c93e9df-ce61-4974-9b76-91dce6492103)
-![Screenshot_2023-07-02-18-36-26-18_53aa9848318d669072f25f16a3256c02](https://github.com/0Armaan025/thapar_session/assets/104704093/ef4ef85f-d0d1-4448-80e0-907b75888b82)
-![Screenshot_2023-07-02-18-37-43-66_bfa25db1abf222ba9994bfb4b61babbd](https://github.com/0Armaan025/thapar_session/assets/104704093/2227682c-57be-49f4-a69a-d3a808a188a8)
-![Screenshot_2023-07-02-18-38-06-78_f8236e4d41a64e75cc1bc1bfe57f8820](https://github.com/0Armaan025/thapar_session/assets/104704093/d9b8fef9-c64a-41d8-bcd4-743d1adfaa11)
-![Screenshot_2023-07-02-18-37-30-72_2647c420426a383fde52b11cb38b1e2e](https://github.com/0Armaan025/thapar_session/assets/104704093/aefc66a2-584e-42e0-a18e-3d1919c46d49)
-![Screenshot_2023-07-02-18-38-53-50_889b6a6d7636176cce19b3d8e21991dd](https://github.com/0Armaan025/thapar_session/assets/104704093/78c9f196-d614-47de-8d7b-7992d1b43b2b)
-![Screenshot_2023-07-02-18-36-45-80_82de22f2127ce9c4578051c5a003d9b6](https://github.com/0Armaan025/thapar_session/assets/104704093/856b9b2d-7640-400c-9e5f-b0674020da4f)
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/4c93e9df-ce61-4974-9b76-91dce6492103" alt="Screenshot 1" width="300" height="200">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/ef4ef85f-d0d1-4448-80e0-907b75888b82" alt="Screenshot 2" width="300" height="200">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/2227682c-57be-49f4-a69a-d3a808a188a8" alt="Screenshot 3" width="300" height="200">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/d9b8fef9-c64a-41d8-bcd4-743d1adfaa11" alt="Screenshot 4" width="300" height="200">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/aefc66a2-584e-42e0-a18e-3d1919c46d49" alt="Screenshot 5" width="300" height="200">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/78c9f196-d614-47de-8d7b-7992d1b43b2b" alt="Screenshot 6" width="300" height="200">
+<img src="https://github.com/0Armaan025/thapar_session/assets/104704093/856b9b2d-7640-400c-9e5f-b0674020da4f" alt="Screenshot 7" width="300" height="200">
+
 
