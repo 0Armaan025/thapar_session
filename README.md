@@ -9,9 +9,8 @@ Welcome to the session! In this session, we explored the importance of communiti
 - [The Future of Flutter](#the-future-of-flutter)
 - [Installation](#installation)
 - [About Me](#about-me)
-- [Showcasing UI with Pictures](#showcasing-ui-with-pictures)
 - [Creating a Discord Bot with discord.py](#creating-a-discord-bot-with-discordpy)
-- [Hackathons and Global Hack Weeks](#hackathons-and-global-hack-weeks)
+- [Hackathons and Global Hack Weeks](#hackathons-and-global-hack-week)
 
 ## Introduction
 
