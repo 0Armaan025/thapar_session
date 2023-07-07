@@ -1,6 +1,6 @@
-# Flutter Session
+# Thapar Expert Talk Session With Master Divjot.
 
-Welcome to my session on Flutter! In this session, we will explore the importance of communities, discuss the future of Flutter, learn how to install it, and delve into various exciting topics such as creating a UI for a Flutter app, building a Discord bot using discord.py, participating in hackathons, and GitHub World Summit (GHWS).
+Welcome to the session! In this session, we explored the importance of communities, discussed the future of Flutter, learned how to install it, and delved into various exciting topics such as building a Discord bot using discord.py, participating in hackathons, and Global Hack Weeks (GHWS).
 
 ## Table of Contents
 
@@ -11,15 +11,15 @@ Welcome to my session on Flutter! In this session, we will explore the importanc
 - [About Me](#about-me)
 - [Showcasing UI with Pictures](#showcasing-ui-with-pictures)
 - [Creating a Discord Bot with discord.py](#creating-a-discord-bot-with-discordpy)
-- [Hackathons and GitHub World Summit](#hackathons-and-github-world-summit)
+- [Hackathons and Global Hack Weeks](#hackathons-and-global-hack-weeks)
 
 ## Introduction
 
-In this session, we will dive into the world of Flutter and explore its features, capabilities, and potential applications. We will discuss why communities play a vital role in the growth and success of Flutter.
+In this session, we dived into the world of Flutter and discord.py and explored its features, capabilities, and potential applications. We will discuss why communities play a vital role in the growth and success in our coding journey.
 
 ## Importance of Communities
 
-Communities are the backbone of any technology, and Flutter is no exception. We will explore how communities contribute to the development, support, and enhancement of Flutter. We will also discuss how being part of a Flutter community can benefit you as a developer.
+Communities are the group of people who aim to solve a common goal. We explored how communities contribute to the development, support, and enhancement. We also discuss how being part of a community can benefit us as a developer.
 
 ## The Future of Flutter
 
@@ -27,22 +27,23 @@ Flutter has gained significant popularity in recent years, and its future looks 
 
 ## Installation
 
-Before we get started with Flutter, we need to install it. In this section, we will walk through the installation process step by step, ensuring that everyone is ready to start building Flutter apps.
+Before we got started with Flutter, we needed to install it. In this section, we walked through the installation process step by step, ensuring that everyone was ready to start building Flutter apps.
 
 ## About Me
 
-I am [Your Name], a passionate Flutter developer and enthusiast. I have been working with Flutter for [X] years and have contributed to various open-source projects. I love sharing my knowledge and experiences with fellow developers.
-
-## Showcasing UI with Pictures
-
-In this part of the session, we will showcase the power and flexibility of Flutter's UI capabilities. I will demonstrate a Flutter app I have developed, along with relevant screenshots and descriptions. You will get a glimpse of what can be achieved with Flutter's UI framework.
+I am Armaan, a passionate Flutter developer and enthusiast. I have been working with Flutter for 0.9 years and have contributed to various projects. I love sharing my knowledge and experiences with fellow developers.
 
 ## Creating a Discord Bot with discord.py
 
-Apart from mobile app development, Flutter enthusiasts often explore other technologies and platforms. We will explore creating a Discord bot using the discord.py library. We will cover various features like polling, hello feature, and a store feature using embeds. You will get hands-on experience in building a functional Discord bot.
+Apart from mobile app development, Flutter enthusiasts often explore other technologies and platforms. We explored creating a Discord bot using the discord.py library. We covered various features like polling, hello feature, and a store feature using embeds. 
 
-## Hackathons and GitHub World Summit
+## Hackathons and Global Hack Week
 
-Participating in hackathons and conferences like GitHub World Summit can be a great way to enhance your skills, network with like-minded individuals, and showcase your projects. We will discuss the benefits of participating in hackathons and share insights on the GitHub World Summit. Get ready to take your Flutter development journey to the next level!
+Participating in hackathons and conferences like Global Hack Week can be a great way to enhance your skills, network with like-minded individuals, and showcase your projects. We will discuss the benefits of participating in hackathons and share insights on the Global Hack Week. Get ready to take your development journey to the next level!
+
+https://mlh.io <- hackathons
+https://ghw.mlh.io <- GLOBAL HACK WEEKS
 
 
+# CodeBeetles
+https://discord.gg/H4XsyBnsNH
